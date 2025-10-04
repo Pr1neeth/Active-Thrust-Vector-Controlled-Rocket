@@ -27,5 +27,5 @@ Built for experimentation in rocketry, avionics, and control systems.
 ## ⚙️ Setup
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/username/GodSpeed-Rocket.git
-   cd GodSpeed-Rocket
+   git clone https://github.com/Pr1neeth/Active-Thrust-Vector-Controlled-Rocket
+   cd Active-Thrust-Vector-Controlled-Rocket
